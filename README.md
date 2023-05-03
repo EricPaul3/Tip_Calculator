@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.kapwing.com/videos/6451ef963aba4c03693d5a04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn-useast1.kapwing.com/final_6451ef963aba4c03693d5a04_864842.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
